@@ -1,0 +1,87 @@
+
+body
+{
+   font-family: 'poppins';
+}
+.nav__bar
+{
+width: 1280px;
+margin: 0 auto;
+}
+.titulo
+{
+text-align: center;
+width: 100%;
+background-color: white;
+margin: 15px 15px;
+font-size: 15px;
+}
+.banner
+{
+background-image: url('logo quemsomos-02.png');
+height: 278px;
+background-repeat: no-repeat;
+background-position: center;
+
+}
+.nav 
+{
+list-style-type: none;
+display: flex;
+justify-content: space-between;
+align-items: center;
+height: 30px;
+margin: 4rem 0;
+}
+.btn
+{
+background-color: #6e005f;
+border: none;
+cursor: pointer;
+height: 44px;
+text-decoration: none;
+color: #fff;
+padding: 10px 16px;
+border-radius: 8px;
+font-size: 0.9rem;
+font-family: 'poppins';
+font-style: normal;
+font-weight: 400;
+}
+.btn:hover
+{
+color: #cecdcd;
+border-radius: 10px;
+border-bottom: 2px solid purple;
+}
+h2{
+font-size: 22px;
+border-bottom: 5px solid #fc6621;
+padding-top: 15px;
+margin: 2rem;
+padding-bottom: 8px;
+font-weight: 700;
+display: inline-block
+}
+.impacto{
+background-color: #6e005f;
+max-width: 100%;
+display: flex;
+justify-content: center;
+
+}
+.card{
+height: 550px;
+width: 400px;
+border-radius: 10px;
+background-color: #ffffff9c;
+margin: 2rem;
+text-align: center;
+}
+
+.imAlunes{
+margin-top: 2rem;
+width: 200px;
+height: 200px;
+
+}
